@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=URESP_PCB_FPGA.MbsDoc|Kind=Multi-board Schematic Module|Designator=AFE|Source=URESP_AFE\URESP_AFE.PrjPcb
+Record=SubProject|SourceDocument=URESP_PCB_FPGA.MbsDoc|ProjectPath=URESP_AFE\URESP_AFE.PrjPcb
+Record=DiagramHierarchy|SourceDocument=URESP_PCB_FPGA.MbsDoc|Kind=Multi-board Schematic Module|Designator=PUL|Source=URESP_PULSER\URESP_PULSER.PrjPcb
+Record=SubProject|SourceDocument=URESP_PCB_FPGA.MbsDoc|ProjectPath=URESP_PULSER\URESP_PULSER.PrjPcb
